@@ -14,7 +14,7 @@ function HomePage() {
 <div className="bg-image mt-0" >
 <div className="container text-light ">
             <div className="pt-5 text-center" data-aos="fade-down-right">
-            <h1 className='pt-5' style={{fontSize:'40px',fontWeight:'bold',marginTop:'60px'}}>
+            <h1 className='pt-2' style={{fontSize:'40px',fontWeight:'bold',marginTop:'60px'}}>
             Easy & Quick Cargo  Shipping Services 
             </h1>
             <p style={{fontSize:'24px',fontWeight:'700px'}}>Book low cost sea freight shipping services. 
@@ -22,7 +22,7 @@ function HomePage() {
            </div>
         </div>
         <div className="container text-center">
-        <a href="/tracking" className="btn btn-danger">Track Goods Here</a>
+        <a href="/tracking" className="btn btn-danger" data-aos="fade-up-left">Track Goods Here</a>
         </div>  
        </div> 
        
